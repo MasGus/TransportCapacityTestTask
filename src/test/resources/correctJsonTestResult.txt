@@ -1,0 +1,6 @@
+"planes" : 524
+"trains" : 150
+"cars" : 14
+"distinct-cars" : 3
+"distinct-planes" : 2
+"distinct-trains" : 1
